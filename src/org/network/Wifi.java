@@ -20,6 +20,9 @@ public class Wifi {
 		
 		Wireless wi = new Wireless();
 		wi.modemName();
+		
+		System.out.println("Tc2 has completed");
+		
 	}
 
 }
